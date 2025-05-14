@@ -1,6 +1,6 @@
 # 🛠️ SSG - Sistema de Serviços Gerais
 
-Em 2024, participei do desenvolvimento do **SSG**, um sistema web com o objetivo de conectar prestadores de serviços domésticos (como encanadores, diaristas, eletricistas, entre outros) a clientes que buscam por esses serviços. O projeto foi orientado pelo professor **Daniel Vidal** como parte de nossas atividades práticas em desenvolvimento de sistemas.
+Em 2024, participei do desenvolvimento do **SSG** como **desenvolvedor back-end**, focando na lógica de negócios, integração com banco de dados, regras de agendamento e controle de acesso. O SSG é um sistema web com o objetivo de conectar prestadores de serviços domésticos (como encanadores, diaristas, eletricistas, entre outros) a clientes que buscam por esses serviços. O projeto foi orientado pelo professor **Daniel Vidal** como parte de nossas atividades práticas em desenvolvimento de sistemas.
 
 ## 🔍 Visão Geral
 
